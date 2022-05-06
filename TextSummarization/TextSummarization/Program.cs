@@ -9,8 +9,8 @@ namespace TextSummarization
 {
     class Program
     {
-        private static readonly AzureKeyCredential credentials = new AzureKeyCredential("3430760e509643b285878d0ef9eb7d9d");
-        private static readonly Uri endpoint = new Uri("https://text-analytics-api-test.cognitiveservices.azure.com/");
+        private static readonly AzureKeyCredential credentials = new AzureKeyCredential("");
+        private static readonly Uri endpoint = new Uri("");
 
         static async Task TextSummarization(TextAnalyticsClient client, string text)
         {

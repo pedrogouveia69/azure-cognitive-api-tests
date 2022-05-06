@@ -11,8 +11,8 @@ namespace OpticalCharacterRecognition
     class Program
     {
         // Computer Vision subscription key and endpoint
-        static string subscriptionKey = "44c59a3b22f44f14abd9e906dbb8383d";
-        static string endpoint = "https://vision-ocr-api-test.cognitiveservices.azure.com/";
+        static string subscriptionKey = "";
+        static string endpoint = "";
         static void Main(string[] args)
         {
             var client = Authenticate(endpoint, subscriptionKey);
