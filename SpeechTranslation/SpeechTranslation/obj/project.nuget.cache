@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7v5CU9oniG5hlEdSLfXF5mFjChsaIHBlIPBHVgMQQAxA0ealYIEK+xATjtpkItFyenuZO2IbANMhnrcwMCVzqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\SpeechTranslation\\SpeechTranslation\\SpeechTranslation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.21.0\\microsoft.cognitiveservices.speech.1.21.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
