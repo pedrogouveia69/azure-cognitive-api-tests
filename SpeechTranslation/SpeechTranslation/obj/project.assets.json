@@ -681,11 +681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro.Gouveia\\source\\repos\\SpeechTranslation\\SpeechTranslation\\SpeechTranslation.csproj",
+      "projectUniqueName": "C:\\github-repos\\azure-cognitive-api-tests\\SpeechTranslation\\SpeechTranslation\\SpeechTranslation.csproj",
       "projectName": "SpeechTranslation",
-      "projectPath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\SpeechTranslation\\SpeechTranslation\\SpeechTranslation.csproj",
+      "projectPath": "C:\\github-repos\\azure-cognitive-api-tests\\SpeechTranslation\\SpeechTranslation\\SpeechTranslation.csproj",
       "packagesPath": "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\SpeechTranslation\\SpeechTranslation\\obj\\",
+      "outputPath": "C:\\github-repos\\azure-cognitive-api-tests\\SpeechTranslation\\SpeechTranslation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro.Gouveia\\AppData\\Roaming\\NuGet\\NuGet.Config",

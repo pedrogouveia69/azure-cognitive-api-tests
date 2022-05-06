@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMsa/zz6rhA+nrKJxcwoNUP50erSp28PLe45XTwoKU1vqi/QoUkqwfq5Kx3gznsoqdGYX7vPLzjL/bb3h0YmIw==",
+  "dgSpecHash": "23HOI/HJ1fdALb9h3e73y8NwSVEVu1DMo+VrnaUEc15gGBqJdDY8Q3Z9B563UOy4+OOHeDI4x6hJEhBwGU8SAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
+  "projectFilePath": "C:\\github-repos\\azure-cognitive-api-tests\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.0\\microsoft.azure.cognitiveservices.vision.computervision.7.0.0.nupkg.sha512",
     "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

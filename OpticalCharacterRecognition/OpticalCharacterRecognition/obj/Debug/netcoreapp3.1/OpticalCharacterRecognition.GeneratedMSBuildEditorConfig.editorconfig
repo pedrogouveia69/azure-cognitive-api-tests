@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OpticalCharacterRecognition
+build_property.ProjectDir = C:\github-repos\azure-cognitive-api-tests\OpticalCharacterRecognition\OpticalCharacterRecognition\

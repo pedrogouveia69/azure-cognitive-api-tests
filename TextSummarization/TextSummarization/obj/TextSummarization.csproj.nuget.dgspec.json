@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro.Gouveia\\source\\repos\\TextSummarization\\TextSummarization\\TextSummarization.csproj": {}
+    "C:\\github-repos\\azure-cognitive-api-tests\\TextSummarization\\TextSummarization\\TextSummarization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro.Gouveia\\source\\repos\\TextSummarization\\TextSummarization\\TextSummarization.csproj": {
+    "C:\\github-repos\\azure-cognitive-api-tests\\TextSummarization\\TextSummarization\\TextSummarization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro.Gouveia\\source\\repos\\TextSummarization\\TextSummarization\\TextSummarization.csproj",
+        "projectUniqueName": "C:\\github-repos\\azure-cognitive-api-tests\\TextSummarization\\TextSummarization\\TextSummarization.csproj",
         "projectName": "TextSummarization",
-        "projectPath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\TextSummarization\\TextSummarization\\TextSummarization.csproj",
+        "projectPath": "C:\\github-repos\\azure-cognitive-api-tests\\TextSummarization\\TextSummarization\\TextSummarization.csproj",
         "packagesPath": "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\TextSummarization\\TextSummarization\\obj\\",
+        "outputPath": "C:\\github-repos\\azure-cognitive-api-tests\\TextSummarization\\TextSummarization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro.Gouveia\\AppData\\Roaming\\NuGet\\NuGet.Config",

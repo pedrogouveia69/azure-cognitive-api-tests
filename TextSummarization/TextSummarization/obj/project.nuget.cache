@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gr5/PTCsEwYhpwbxHIGZrZjxHrakLdLJknR21SNWy9+ia3/Nu0E4rN5FZ4zRz+fsg2uHUxj1vIf5XgXWlXui6w==",
+  "dgSpecHash": "3UuW7838SDrGIzn7SMUjXx7fuOjak7QAGiP5Az5L29pNCPZlv/+NKfOc1jYrK2chHjsWtTsQU5i5wO9AgeG3gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\TextSummarization\\TextSummarization\\TextSummarization.csproj",
+  "projectFilePath": "C:\\github-repos\\azure-cognitive-api-tests\\TextSummarization\\TextSummarization\\TextSummarization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\azure.ai.textanalytics\\5.2.0-beta.1\\azure.ai.textanalytics.5.2.0-beta.1.nupkg.sha512",
     "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\azure.core\\1.17.0\\azure.core.1.17.0.nupkg.sha512",

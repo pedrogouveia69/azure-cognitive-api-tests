@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro.Gouveia\\source\\repos\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj": {}
+    "C:\\github-repos\\azure-cognitive-api-tests\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro.Gouveia\\source\\repos\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj": {
+    "C:\\github-repos\\azure-cognitive-api-tests\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro.Gouveia\\source\\repos\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
+        "projectUniqueName": "C:\\github-repos\\azure-cognitive-api-tests\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
         "projectName": "OpticalCharacterRecognition",
-        "projectPath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
+        "projectPath": "C:\\github-repos\\azure-cognitive-api-tests\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\OpticalCharacterRecognition.csproj",
         "packagesPath": "C:\\Users\\Pedro.Gouveia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro.Gouveia\\source\\repos\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\obj\\",
+        "outputPath": "C:\\github-repos\\azure-cognitive-api-tests\\OpticalCharacterRecognition\\OpticalCharacterRecognition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro.Gouveia\\AppData\\Roaming\\NuGet\\NuGet.Config",
